@@ -1,0 +1,5 @@
+# Fisiere temporare
+*.tmp
+
+# Foldere temporare
+temp/
