@@ -11,3 +11,9 @@ Proiect pentru vânzarea automobilelor.
 - HTML
 - CSS
 - JavaScript
+
+## Autor
+Realizat în cadrul lucrării de laborator.
+
+## Scopul proiectului
+Gestionarea versiunilor unui proiect software utilizând Git și GitHub.
